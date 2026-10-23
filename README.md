@@ -1,2 +1,2 @@
 # Neural-Networks
-stuff from learning
+What I've learned about neural networks in python and such, may be a bit dissorganised
